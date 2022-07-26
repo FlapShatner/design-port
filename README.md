@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src='./public/images/scrsht-dt.png' width='60%' alt='screenshot of completed project' />
+<img src='./images/scrsht-dt.png' width='60%' alt='screenshot of completed project' />
 
 
 ### Links
